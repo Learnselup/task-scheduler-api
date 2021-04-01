@@ -130,3 +130,4 @@ Update for day 88
 Update for day 96
 Update for day 102
 Update for day 107
+Update for day 3
